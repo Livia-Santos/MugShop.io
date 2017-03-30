@@ -12,4 +12,4 @@
 It must be mobile-first, and look good on a 320-wide phone, medium sized tablet (768+) and larger screens (1024+).
 
 - Coder Factory Term 1 challenge.
-live:[live]https://livia-santos.github.io/mugshop.io/ 
+live: https://livia-santos.github.io/mugshop.io/ 
